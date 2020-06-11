@@ -8,4 +8,4 @@ Calculate one of the following (selected by user) for each group:
 - Total number of bytes transferred
 - Print the results in descending order.
 Note: order the results by values described in (2), not by IP address or HTTP code.
-- Optionally limit the number of rows printed (specied by user)
+- Optionally limit the number of rows printed (specified by user)
