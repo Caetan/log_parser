@@ -1,4 +1,4 @@
-# log_parser
+# log parser
 HTTP Python log parser
 
 Group the logged requests by IP address or HTTP status code (selected by user).
